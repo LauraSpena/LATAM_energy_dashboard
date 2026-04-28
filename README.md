@@ -1,5 +1,13 @@
 # 📊 LATAM Energy Dashboard – Growth & Energy Pressure
 
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard](dashboard_preview.png)
+
+---
+
 ## 🧭 Overview
 This project analyzes the relationship between economic growth and energy consumption across Latin American countries between 1980 and 2022.
 
@@ -77,12 +85,6 @@ The analysis suggests that:
 - Growth alone does not determine energy demand
 - Structural factors (industry mix, efficiency, stability) play a key role
 - The region exhibits **divergent development paths in energy usage**
-
----
-
-## 📷 Dashboard Preview
-
-![Dashboard](dashboard_preview.png)
 
 ---
 
