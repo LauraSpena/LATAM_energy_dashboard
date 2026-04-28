@@ -1,5 +1,3 @@
-# LATAM_energy_dashboard
-Power BI dashboard analyzing energy consumption and economic growth across Latin America (1980–2022).
 # 📊 LATAM Energy Dashboard – Growth & Energy Pressure
 
 ## 🧭 Overview
@@ -84,7 +82,7 @@ The analysis suggests that:
 
 ## 📷 Dashboard Preview
 
-![Dashboard](images/portada.png)
+![Dashboard](dashboard_preview.png)
 
 ---
 
